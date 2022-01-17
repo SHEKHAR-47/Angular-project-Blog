@@ -1,0 +1,46 @@
+.head{
+    background-color: brown;
+    color: green;
+}
+.main{
+    margin-top: -8px;
+}
+.bgnav{
+    background-color: #68006f;
+    margin:auto;
+      border-radius: 30px;
+      width:70%;
+}
+p{
+  font-style: italic;  
+}
+.a{
+    color: white;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-left: 5px;
+    height: 80px;
+}
+.class{
+    padding: auto;
+    text-align: center;
+}
+.nav-item{
+    padding:10px;
+    text-align: center;
+    font-size:15px;
+    text-decoration: none;
+    text-transform: uppercase;
+    
+
+}
+.navbar-brand{
+    padding:10px;
+    text-align: left;
+    font-size:30px;
+    text-decoration: none;
+    text-transform: uppercase;
+    
+
+}

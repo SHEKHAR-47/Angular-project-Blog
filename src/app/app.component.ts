@@ -5,6 +5,9 @@ import { Component } from '@angular/core';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
+//provide the binding of data with the view
+//generating the view
+
 export class AppComponent {
-  title = 'angularwebspa';
+  title = 'welcome to training!!';
 }
